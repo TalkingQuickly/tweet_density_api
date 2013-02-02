@@ -1,0 +1,1268 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"su",
+				"suggested_date"
+			],
+			[
+				"v",
+				"valid_site"
+			],
+			[
+				"dom",
+				"domains_visited"
+			],
+			[
+				"scrap",
+				"scraping_log"
+			],
+			[
+				"scr",
+				"scraping_log"
+			],
+			[
+				"scrape",
+				"scraped_datum"
+			],
+			[
+				"image",
+				"image_link"
+			],
+			[
+				"item",
+				"items_failed"
+			],
+			[
+				"items",
+				"items_succesful"
+			],
+			[
+				"items_",
+				"items_failed"
+			],
+			[
+				"render",
+				"renderItemDetail"
+			],
+			[
+				"this_",
+				"this_month_key"
+			],
+			[
+				"base",
+				"base_key"
+			],
+			[
+				"history",
+				"history_items"
+			],
+			[
+				"suppo",
+				"supported_domains"
+			],
+			[
+				"com",
+				"composite_price_selector"
+			],
+			[
+				"maxP",
+				"maxPriceBound"
+			],
+			[
+				"supporteD_",
+				"supported_domain"
+			],
+			[
+				"cate",
+				"categories"
+			],
+			[
+				"change",
+				"changeCategory"
+			],
+			[
+				"filtered",
+				"filtered_items"
+			],
+			[
+				"the_",
+				"the_item_view"
+			],
+			[
+				"backbone",
+				"backbone_app"
+			],
+			[
+				"shopofme",
+				"shopofme_backbone"
+			],
+			[
+				"Daily",
+				"DailyReportMailer"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"category",
+				"category_filtered"
+			],
+			[
+				"par",
+				"partial"
+			],
+			[
+				"ren",
+				"render"
+			],
+			[
+				"random",
+				"random_items"
+			],
+			[
+				"recomm",
+				"recommendations_with_filters"
+			],
+			[
+				"extract",
+				"extract_categories"
+			],
+			[
+				"mob",
+				"mobile_dislikes"
+			],
+			[
+				"mobile_",
+				"mobile_likes"
+			],
+			[
+				"mobile",
+				"mobile_recommendations"
+			],
+			[
+				"the",
+				"the_header"
+			],
+			[
+				"static",
+				"static_without_news"
+			],
+			[
+				"backg",
+				"background_images"
+			],
+			[
+				"download",
+				"downloadable"
+			],
+			[
+				"out",
+				"output_file_path"
+			],
+			[
+				"sound",
+				"sound_cloud_tracks"
+			],
+			[
+				"privacy",
+				"privacy_policy"
+			],
+			[
+				"tr",
+				"track_id"
+			],
+			[
+				"find_by",
+				"find_by_id"
+			],
+			[
+				"player",
+				"player_search_wrap"
+			],
+			[
+				"cha",
+				"challenge_details_wrap"
+			],
+			[
+				"con",
+				"contact_email"
+			],
+			[
+				"select",
+				"select_box_html"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"users",
+				"users_by_location"
+			],
+			[
+				"user",
+				"users"
+			],
+			[
+				"sel",
+				"selected"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "source 'https://rubygems.org'\n\ngem 'rails', '3.2.11'\n\n# Bundle edge Rails instead:\n# gem 'rails', :git => 'git://github.com/rails/rails.git'\n\ngem 'sqlite3'\n\n\n# Gems used only for assets and not required\n# in production environments by default.\ngroup :assets do\n  gem 'sass-rails',   '~> 3.2.3'\n  gem 'coffee-rails', '~> 3.2.1'\n\n  # See https://github.com/sstephenson/execjs#readme for more supported runtimes\n  # gem 'therubyracer', :platforms => :ruby\n\n  gem 'uglifier', '>= 1.0.3'\nend\n\ngem 'jquery-rails'\ngem 'tweetstream'\ngem 'haml-rails'\ngem 'twitter-bootstrap-rails'\n\n# To use ActiveModel has_secure_password\n# gem 'bcrypt-ruby', '~> 3.0.0'\n\n# To use Jbuilder templates for JSON\n# gem 'jbuilder'\n\n# Use unicorn as the app server\n# gem 'unicorn'\n\n# Deploy with Capistrano\n# gem 'capistrano'\n\n# To use debugger\n# gem 'debugger'\n",
+			"file": "Gemfile",
+			"file_size": 784,
+			"file_write_time": 1359807077000000,
+			"settings":
+			{
+				"buffer_size": 831,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"lint",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				":q",
+				"Set Syntax: SQL"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"package con",
+				"Package Control: List Packages"
+			],
+			[
+				"ERB",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 516.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ben/Dropbox/Ben D50/parentcon/.gitignore",
+		"/Users/ben/Dropbox/Projects/n2tp_rails/app/views/messages/_message_list.html.haml",
+		"/Users/ben/Dropbox/Projects/n2tp_rails/app/views/messages/_form.html.haml",
+		"/Users/ben/Dropbox/Projects/n2tp_rails/app/models/message.rb",
+		"/Users/ben/Dropbox/Projects/n2tp_rails/app/models/user.rb",
+		"/Users/ben/Dropbox/Projects/n2tp_rails/app/views/search/index.html.haml",
+		"/Users/ben/Dropbox/Projects/n2tp_rails/app/controllers/search_controller.rb",
+		"/Users/ben/Dropbox/Projects/n2tp_rails/app/views/threads/index.html.haml",
+		"/Users/ben/Dropbox/Projects/n2tp_rails/app/views/messages/inline_form.html.haml",
+		"/Users/ben/Dropbox/Projects/n2tp_rails/app/helpers/thread_helper.rb",
+		"/Users/ben/Dropbox/Projects/n2tp_rails/app/controllers/messages_controller.rb",
+		"/Users/ben/Dropbox/Projects/n2tp_rails/app/models/message_thread_view.rb",
+		"/Users/ben/Dropbox/Projects/n2tp_rails/app/models/message_view.rb",
+		"/Users/ben/Dropbox/Projects/n2tp_rails/app/controllers/threads_controller.rb",
+		"/Users/ben/Dropbox/Projects/n2tp_rails/db/migrate/20130131141907_create_message_thread_views.rb",
+		"/Users/ben/Dropbox/Projects/n2tp_rails/db/migrate/20130131141907_create_message_views.rb",
+		"/Users/ben/Dropbox/Projects/n2tp_rails/db/schema.rb",
+		"/Users/ben/Dropbox/Projects/n2tp_rails/app/models/threads_read_by.rb",
+		"/Users/ben/Dropbox/Projects/n2tp_rails/app/assets/stylesheets/thread.css.scss",
+		"/Users/ben/Dropbox/Projects/n2tp_rails/db/migrate/20130131140656_create_threads_reads.rb",
+		"/Users/ben/Dropbox/Projects/n2tp_rails/db/migrate/20130131140656_create_threads_read_bies.rb",
+		"/Users/ben/Dropbox/Projects/n2tp_rails/config/routes.rb",
+		"/Users/ben/Dropbox/Projects/n2tp_rails/app/views/layouts/application.html.haml",
+		"/Users/ben/Dropbox/Projects/n2tp_rails/app/views/thread/index.html.haml",
+		"/Users/ben/Dropbox/Projects/n2tp_rails/app/controllers/thread_controller.rb",
+		"/Users/ben/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/ben/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/ben/Dropbox/Projects/n2tp_rails/app/views/messages/create.js.haml",
+		"/Users/ben/Dropbox/Projects/n2tp_rails/app/views/message/_form.html.haml",
+		"/Users/ben/Dropbox/Projects/n2tp_rails/app/views/message/create.js.haml",
+		"/Users/ben/Dropbox/Projects/n2tp_rails/app/views/message/create.js.erb",
+		"/Users/ben/Dropbox/Projects/n2tp_rails/app/models/message_thread.rb",
+		"/Users/ben/Dropbox/Projects/n2tp_rails/app/controllers/message_controller.rb",
+		"/Users/ben/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/Users/ben/Dropbox/Stylegauge/Shopofme/Extension Code/Chrome/process_page.js",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/urls_for_import/reverse.txt",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/controllers/visits_controller.rb",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/assets/javascripts/shopofme_backbone/shopofme_backbone_init.js",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/views/recommendations/index.html.erb",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/assets/javascripts/recommendations.js",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/assets/stylesheets/website/style.css",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/assets/javascripts/website/main.js",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/assets/javascripts/website/kiss_metrics.js",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/controllers/website_controller.rb",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/views/website/homepage.html.haml",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/controllers/backbone_app_controller.rb",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/controllers/recommendations_controller.rb",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/assets/javascripts/shopofme_backbone/views/items_single_item.js",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/views/layouts/application.html.erb",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/views/layouts/shopofme_backbone.html.haml",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/views/layouts/website.html.haml",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/assets/javascripts/website/website.js",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/views/website/_trending_item.html.haml",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/models/item.rb",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/helpers/website_helper.rb",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/views/invites/show.html.erb",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/controllers/invites_controller.rb",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/controllers/pages_controller.rb",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/views/pages/privacy.html.erb",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/views/layouts/website.html.erb",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/controllers/api/v1/top_items_controller.rb",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/lib/contoller_loaders/param_loaders.rb",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/views/layouts/shopofme.html.erb",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/lib/contoller_loaders/km.rb",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/views/website/_social_share_buttons.html.erb",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/assets/stylesheets/website/website.css.scss",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/config/routes.rb",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/assets/javascripts/website/myHint.js",
+		"/Users/ben/Dropbox/Stylegauge/Shopofme/Website/application.html",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/views/website/home.html.erb",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/lib/tasks/update.rake",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/lib/tasks/crawl.rake",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/models/user.rb",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/models/scrape.rb",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/db/schema.rb",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/Gemfile",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/db/migrate/20120910114934_create_scraped_data.rb",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/models/scraped_data.rb",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/assets/javascripts/shopofme_backbone_templates/filters/show.jst.ejs",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/assets/stylesheets/shopofme_backbone/styles.css",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/assets/javascripts/shopofme_backbone/models/item.js",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/assets/stylesheets/shopofme_backbone/item_grids.css.scss",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/lib/tasks/update_item_data.rake",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/assets/javascripts/shopofme_backbone/routers/items.js",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/assets/javascripts/shopofme_backbone/views/filters.js",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/assets/javascripts/shopofme_backbone/models/user.js",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/assets/javascripts/shopofme_backbone_templates/items/item.jst.ejs",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/views/api/v1/history/index.json.rabl",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/views/api/v1/items/show.json.rabl",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/views/api/v1/recommendations/index.json.rabl",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/views/api/v1/top_items/index.json.rabl",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/views/scrape_checker/sd_analysis.html.haml",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/assets/javascripts/shopofme_backbone/models/filter.js",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/controllers/scrape_checker_controller.rb",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/config/database.yml",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/assets/javascripts/shopofme_backbone/views/items_index.js",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/config/database.sample.yml",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/vendor/assets/javascripts/jquery-ui-1.8.18.custom.min.js",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/lib/tasks/refresh_prices.rake",
+		"/Users/ben/Desktop/failures.csv",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/config/deploy.rb",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/config/environments/development.rb",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/config/application.rb",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/Capfile",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/mailers/system_report_mailer.rb",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/views/system_report_mailer/generic_system_notifier.html.haml",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/lib/tasks/email.rake",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/mailers/daily_report_mailer.rb",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/views/daily_report_mailer/analytics.html.haml",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/assets/javascripts/shopofme_backbone/views/listing_page.js",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/assets/javascripts/shopofme_backbone_templates/items/item_detail.jst.ejs",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/assets/stylesheets/shopofme_backbone/item_detail.css.scss",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/controllers/api/v1/items_controller.rb",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/assets/javascripts/shopofme_backbone/views/item_detail.js",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/assets/javascripts/shopofme_backbone_templates/items/no_items_recs.jst.ejs",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/assets/javascripts/shopofme_backbone_templates/items/no_items_topitems.jst.ejs",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/controllers/api/v1/recommendations_controller.rb",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/lib/analytics/active_install.rb",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/views/scrape_checker/check.html.haml",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/admin/supported_domains.rb",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/assets/javascripts/shopofme_backbone_templates/items/no_items.jst.ejs",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/assets/javascripts/shopofme_backbone_templates/items/no_items.jst.est",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/.gitignore",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/assets/javascripts/shopofme_backbone/collections/items.js",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/controllers/api/v1/history_controller.rb",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/controllers/recent_items_controller.rb",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/views/backbone_app/show.html.erb",
+		"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/controllers/api/v1/dislikes_controller.rb"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/models",
+			"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/controllers",
+			"/Users/ben/Dropbox/Aptana/sgbrowserserver/app",
+			"",
+			"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/assets/stylesheets/shopofme_backbone",
+			"",
+			"/Users/ben/Dropbox/Aptana/sgbrowserserver/app/assets/javascripts",
+			"",
+			"/Users/ben/Dropbox/Aptana/sgbrowserserver",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"message",
+			"<span style=\"margin-left:15px;\">",
+			"relic",
+			"license_key",
+			"^(.*)$",
+			"border:",
+			"1px solid",
+			"download the extension",
+			"km",
+			"kmq",
+			"Download the extension",
+			"download_link",
+			"download",
+			"javascript",
+			"img/",
+			"puts",
+			"scraped_dats",
+			"Shopofme - Backbone",
+			"console.log",
+			"backbone slider",
+			"slider",
+			"jqueryui",
+			"minPrice",
+			"active",
+			"RecommendationRefresher",
+			"1",
+			"this",
+			":count",
+			"like",
+			"backbone.js",
+			"1px solid",
+			"border",
+			"Recommendations",
+			"console.log",
+			"btn:hover",
+			":hover",
+			"btn",
+			":hover",
+			"split",
+			"maxPriceBound",
+			"min-height",
+			"supported",
+			"retailer",
+			"console.log",
+			"isNew",
+			"ItemsSingleItem",
+			"applyFilter: function() {\n		console.log(\"applyfilter\");\n	},",
+			"swapping",
+			"2.2.2",
+			".sh",
+			"logo",
+			"img/",
+			"1px solid",
+			"border\":",
+			"0",
+			"5",
+			"9",
+			"8",
+			"7",
+			"6",
+			"4",
+			"3",
+			"2",
+			"1",
+			"3",
+			"2",
+			"1",
+			"20px 10px 20px 10px",
+			".new_recommended",
+			".new_recommended .btn",
+			"km.set",
+			".track",
+			"favicon",
+			".track",
+			"image_tag image_link(rec), :class=> 'recommendeditem'",
+			"debugger",
+			"mainhan",
+			"Install Pickse",
+			"travis",
+			"queue=",
+			"resque",
+			"QUEUE=*",
+			"QUEUE",
+			"margin-bottom",
+			"px solid",
+			"border",
+			"border:",
+			"margin-left:",
+			"img/",
+			"pickse.recs.startup",
+			"body",
+			"bod",
+			"body=1",
+			"Analytics::EngagedVisitor",
+			"skimlinks",
+			".recomm",
+			"silent",
+			"include ExceptionNotifiable ",
+			"params[:n]",
+			"engagedvisitor",
+			"@media (max-width:",
+			"score",
+			"Analytics::EngagedVisitor",
+			"Analytics::NewInstall",
+			"/assets/ShopOfMewebsite",
+			"Shopofme",
+			"##009E4E;",
+			",cursive;",
+			"cursive",
+			"debugger",
+			"\"img/",
+			"categ",
+			"Pickse",
+			"pickse",
+			"55px",
+			".navbar .brandsmall {",
+			"temporary_recommendations",
+			"get to know you better",
+			"user.new",
+			"user.create",
+			"User.new",
+			"newinstall",
+			"p.smallbuttons",
+			"ActiveInstall",
+			"NewInstall",
+			"privacy{",
+			"privacy {",
+			"function loadhistory"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<span style=\"margin-left:0px;\">",
+			"/assets/website/",
+			"self",
+			"2.4.16",
+			"",
+			"''",
+			"/assets/shopofmewebsite/",
+			"/assets/shopofmewebsite",
+			"ShopOfMe",
+			"\"/assets/shopofmewebsite/",
+			"/assets/",
+			"\"/assets/",
+			"/assets/",
+			"supporters_",
+			"/images/",
+			"/assets/",
+			"",
+			"data-position=\"fixed\" "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Gemfile",
+					"settings":
+					{
+						"buffer_size": 831,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								486,
+								486
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"ruby": "~/.rvm/bin/ruby-1.9.3-p125@railsnormal1"
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 122.0
+	},
+	"output.git":
+	{
+		"height": 258.0
+	},
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"schema",
+				"db/schema.rb"
+			],
+			[
+				"form",
+				"app/views/messages/_form.html.haml"
+			],
+			[
+				"searchindex",
+				"app/views/search/index.html.haml"
+			],
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"threadcontrol",
+				"app/controllers/threads_controller.rb"
+			],
+			[
+				"threadcss",
+				"app/assets/stylesheets/thread.css.scss"
+			],
+			[
+				"message_thread",
+				"app/models/message_thread_view.rb"
+			],
+			[
+				"thread_help",
+				"app/helpers/thread_helper.rb"
+			],
+			[
+				"threads.cs",
+				"app/assets/stylesheets/thread.css.scss"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"application",
+				"app/views/layouts/application.html.haml"
+			],
+			[
+				"me",
+				"app/models/message.rb"
+			],
+			[
+				"thread.rb",
+				"app/models/message_thread.rb"
+			],
+			[
+				"message",
+				"app/controllers/message_controller.rb"
+			],
+			[
+				"thread",
+				"app/controllers/thread_controller.rb"
+			],
+			[
+				"recome",
+				"sgbrowserserver/app/assets/javascripts/recommendations.js"
+			],
+			[
+				"param",
+				"sgbrowserserver/lib/contoller_loaders/param_loaders.rb"
+			],
+			[
+				"km",
+				"sgbrowserserver/lib/contoller_loaders/km.rb"
+			],
+			[
+				"websitestyle",
+				"sgbrowserserver/app/assets/stylesheets/website/style.css"
+			],
+			[
+				"layouts",
+				"sgbrowserserver/app/views/layouts/application.html.erb"
+			],
+			[
+				"gemfile",
+				"sgbrowserserver/Gemfile"
+			],
+			[
+				"item",
+				"sgbrowserserver/app/models/item.rb"
+			],
+			[
+				"database",
+				"sgbrowserserver/config/database.sample.yml"
+			],
+			[
+				"item_index",
+				"sgbrowserserver/app/assets/javascripts/shopofme_backbone/views/items_index.js"
+			],
+			[
+				"gem",
+				"sgbrowserserver/Gemfile"
+			],
+			[
+				"data",
+				"sgbrowserserver/config/database.yml"
+			],
+			[
+				"depl",
+				"sgbrowserserver/config/deploy.rb"
+			],
+			[
+				"capfile",
+				"sgbrowserserver/Capfile"
+			],
+			[
+				"rake",
+				"sgbrowserserver/lib/tasks/refresh_prices.rake"
+			],
+			[
+				"rout",
+				"sgbrowserserver/config/routes.rb"
+			],
+			[
+				"applic",
+				"sgbrowserserver/config/application.rb"
+			],
+			[
+				"develop",
+				"sgbrowserserver/config/environments/development.rb"
+			],
+			[
+				"gemf",
+				"sgbrowserserver/Gemfile"
+			],
+			[
+				"deploy",
+				"sgbrowserserver/config/deploy.rb"
+			],
+			[
+				"item.js",
+				"sgbrowserserver/app/assets/javascripts/shopofme_backbone/models/item.js"
+			],
+			[
+				"backbonecss",
+				"sgbrowserserver/app/assets/stylesheets/shopofme_backbone/styles.css"
+			],
+			[
+				"init",
+				"sgbrowserserver/app/assets/javascripts/shopofme_backbone/shopofme_backbone_init.js"
+			],
+			[
+				"rabl",
+				"sgbrowserserver/app/views/api/v1/recommendations/index.json.rabl"
+			],
+			[
+				"sche",
+				"sgbrowserserver/db/schema.rb"
+			],
+			[
+				"recomm",
+				"sgbrowserserver/app/assets/javascripts/recommendations.js"
+			],
+			[
+				"likes",
+				"sgbrowserserver/app/controllers/likes_controller.rb"
+			],
+			[
+				"item_grid",
+				"sgbrowserserver/app/assets/stylesheets/shopofme_backbone/item_grids.css.scss"
+			],
+			[
+				"route",
+				"sgbrowserserver/config/routes.rb"
+			],
+			[
+				"privacy",
+				"sgbrowserserver/app/views/pages/privacy.html.erb"
+			],
+			[
+				"production",
+				"sgbrowserserver/config/environments/production.rb"
+			],
+			[
+				"appli",
+				"sgbrowserserver/config/application.rb"
+			],
+			[
+				"params",
+				"sgbrowserserver/lib/contoller_loaders/param_loaders.rb"
+			],
+			[
+				"recommendations",
+				"sgbrowserserver/app/assets/javascripts/recommendations.js"
+			],
+			[
+				"yml",
+				"sgbrowserserver/config/database.yml"
+			],
+			[
+				"recommindexhtml",
+				"sgbrowserserver/app/views/recommendations/index.html.erb"
+			],
+			[
+				"recommendations.js",
+				"sgbrowserserver/app/assets/javascripts/recommendations.js"
+			],
+			[
+				"recommendcss",
+				"sgbrowserserver/app/assets/stylesheets/recommendations.css.scss"
+			],
+			[
+				"backbonebootstr",
+				"sgbrowserserver/app/assets/stylesheets/shopofme_backbone/bootstrap.css"
+			],
+			[
+				"backbonelayout",
+				"sgbrowserserver/app/assets/stylesheets/shopofme_backbone/layout.css.scss"
+			],
+			[
+				"shpofm",
+				"sgbrowserserver/app/views/layouts/shopofme.html.erb"
+			],
+			[
+				"layouts/",
+				"sgbrowserserver/app/views/layouts/application.html.erb"
+			],
+			[
+				"shopofme",
+				"sgbrowserserver/app/views/layouts/shopofme.html.erb"
+			],
+			[
+				"recom",
+				"sgbrowserserver/app/assets/javascripts/recommendations.js"
+			],
+			[
+				"application.html.erb",
+				"sgbrowserserver/app/views/layouts/application.html.erb"
+			],
+			[
+				"fluid",
+				"sgbrowserserver/app/views/recommendations/_recommendations_grid_fluid.html.haml"
+			],
+			[
+				"km.r",
+				"sgbrowserserver/lib/contoller_loaders/km.rb"
+			],
+			[
+				"recommend",
+				"sgbrowserserver/app/assets/javascripts/recommendations.js"
+			],
+			[
+				"eply",
+				"sgbrowserserver/config/deploy.rb"
+			],
+			[
+				"schedu",
+				"sgbrowserserver/config/schedule.rb"
+			],
+			[
+				"configappl",
+				"sgbrowserserver/config/application.rb"
+			],
+			[
+				"main.js",
+				"sgbrowserserver/app/assets/javascripts/shopofmewebsite/main.js"
+			],
+			[
+				"main",
+				"Website/js/main.js"
+			],
+			[
+				"bootswat",
+				"sgbrowserserver/app/assets/javascripts/shopofmewebsite/bootswatch.js"
+			],
+			[
+				"",
+				"sgbrowserserver/Gemfile"
+			],
+			[
+				"shopofme.html",
+				"sgbrowserserver/app/views/layouts/shopofme.html.erb"
+			],
+			[
+				"website",
+				"sgbrowserserver/app/views/layouts/website.html.erb"
+			],
+			[
+				"style",
+				"sgbrowserserver/app/assets/stylesheets/shopofmewebsite/style.css"
+			],
+			[
+				"reom",
+				"sgbrowserserver/app/assets/javascripts/recommendations.js"
+			],
+			[
+				"shopofmewebsite/style.css",
+				"sgbrowserserver/app/assets/stylesheets/shopofmewebsite/style.css"
+			],
+			[
+				"shopofmewebsite/main",
+				"sgbrowserserver/app/assets/stylesheets/shopofmewebsite/main.css"
+			],
+			[
+				"green_brand_bootstrap_respon",
+				"sgbrowserserver/app/assets/stylesheets/green_brand_bootstrap_responsive_modified.css.scss"
+			],
+			[
+				"database.",
+				"sgbrowserserver/config/database.sample.yml"
+			],
+			[
+				"gemfi",
+				"sgbrowserserver/Gemfile"
+			],
+			[
+				"prod",
+				"sgbrowserserver/config/environments/production.rb"
+			],
+			[
+				"envir",
+				"sgbrowserserver/config/environment.rb"
+			],
+			[
+				"cate",
+				"sgbrowserserver/app/admin/categories.rb"
+			],
+			[
+				"deply",
+				"sgbrowserserver/config/deploy.rb"
+			],
+			[
+				"cap",
+				"sgbrowserserver/Capfile"
+			],
+			[
+				"plist",
+				"sgbrowserserver/public/extension/sg.plist"
+			],
+			[
+				"bootsw",
+				"Pickse/js/bootswatch.js"
+			],
+			[
+				"visits",
+				"sgbrowserserver/app/admin/visits.rb"
+			],
+			[
+				"capf",
+				"sgbrowserserver/Capfile"
+			],
+			[
+				"green_brand",
+				"sgbrowserserver/app/assets/stylesheets/green_brand_styles.scss"
+			],
+			[
+				"index.html",
+				"Pickse/index.html"
+			],
+			[
+				"application.html",
+				"sgbrowserserver/app/views/layouts/application.html.erb"
+			],
+			[
+				"user.rb",
+				"sgbrowserserver/app/models/user.rb"
+			],
+			[
+				"css/sty",
+				"Pickse/css/style.css"
+			],
+			[
+				"css/style",
+				"Pickse/css/style.css"
+			],
+			[
+				"docs.css",
+				"Pickse/css/docs.css"
+			],
+			[
+				"schem",
+				"sgbrowserserver/db/schema.rb"
+			],
+			[
+				"home",
+				"sgbrowserserver/app/views/website/home.html.erb"
+			],
+			[
+				"recomme",
+				"sgbrowserserver/app/assets/stylesheets/recommendations.css.scss"
+			],
+			[
+				"recommen",
+				"sgbrowserserver/app/assets/stylesheets/recommendations.css.scss"
+			],
+			[
+				"appl",
+				"sgbrowserserver/app/views/layouts/application.html.erb"
+			],
+			[
+				"create_sign",
+				"sgbrowserserver/db/migrate/20120512111725_create_signups.rb"
+			],
+			[
+				"sch",
+				"sgbrowserserver/db/schema.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"ait",
+				"/Users/ben/Dropbox/Aptana/activeintime.sublime-project"
+			],
+			[
+				"a",
+				"/Users/ben/Dropbox/Aptana/activeintime.sublime-project"
+			],
+			[
+				"awf",
+				"/Users/ben/Dropbox/sublime_macbook/awf.sublime-project"
+			],
+			[
+				"hh",
+				"/Users/ben/Dropbox/Aptana/hh_data_download/hh_data_download_bdmbp.sublime-project"
+			],
+			[
+				"active",
+				"/Users/ben/Dropbox/Aptana/activeintime.sublime-project"
+			],
+			[
+				"ac",
+				"/Users/ben/Dropbox/Aptana/activeintime.sublime-project"
+			],
+			[
+				"n2t",
+				"/Users/ben/Dropbox/Aptana/development-www/nearest2/n2p.sublime-project"
+			],
+			[
+				"how",
+				"/Users/ben/Dropbox/Aptana/development-www/hhackney/howardhackney_websites.sublime-project"
+			],
+			[
+				"sgbrow",
+				"/Users/ben/Dropbox/Stylegauge/Browser Extension/sgbrowserextension.sublime-project"
+			],
+			[
+				"sgbrowser",
+				"/Users/ben/Dropbox/Aptana/sgbrowserserver/sgbrowserserver.sublime-project"
+			],
+			[
+				"chrome",
+				"/Users/ben/Dropbox/Stylegauge/Browser Extension/chromeextension.sublime-project"
+			],
+			[
+				"browser",
+				"/Users/ben/Dropbox/Stylegauge/Browser Extension/sgbrowserextension.sublime-project"
+			],
+			[
+				"sg",
+				"/Users/ben/Dropbox/Stylegauge/Browser Extension/sgbrowserextension.sublime-project"
+			],
+			[
+				"activ",
+				"/Users/ben/Dropbox/Aptana/activeintime.sublime-project"
+			],
+			[
+				"",
+				"/home/bdixon/Dropbox/Aptana/development-www/nearest2/n2p.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 266.0,
+	"status_bar_visible": true
+}
