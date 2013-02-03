@@ -30,7 +30,7 @@ class TrackedTag < ActiveRecord::Base
     lt = self.get_density(5000)
 
     if st > 0 && lt > 0
-      return ((st/lt) * 100)/2
+      return (((st/lt) * 100)/2).to_i
     else
       return 50
     end
