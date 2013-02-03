@@ -29,6 +29,8 @@ gem 'twitter-bootstrap-rails'
 gem 'therubyracer'
 gem 'redis-rails'
 gem 'pry-rails'
+gem 'rails_admin'
+gem 'twitter'
 
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
@@ -44,3 +46,6 @@ gem 'pry-rails'
 
 # To use debugger
 # gem 'debugger'
+
+
+gem "devise"
