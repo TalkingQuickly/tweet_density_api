@@ -17,14 +17,23 @@ class TrackedTag < ActiveRecord::Base
         time_elapsed = 1
       end
       
-      return (tweets.count / (time_elapsed/ 60)).to_i
+      return (tweets.count / (time_elapsed/ 60))
     else
       return -1
     end
   end
 
-  # 
+  # work out how difficult the current hashtag is based on its
+  # recent volume compared to its total volume
   def get_difficulty
+    st = self.get_density(50)
+    lt = self.get_density(5000)
+
+    if st > 0 && lt > 0
+      return st/lt
+    else
+      return 5
+    end
   end
 
 end
